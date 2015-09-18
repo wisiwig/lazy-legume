@@ -6,6 +6,8 @@
 
 _Because sofa spud was taken..._
 
+![alt tag](https://codeship.com/projects/103375/status?branch=master)
+
 Lazy Legume is a **smart rss parser** designed for **tv show torrent feeds**. You give it a show and a preferred quality, and it downloads episodes for that show at the quality you select when it comes up in the feed. Lazy Legume remembers what episodes it's already downloaded, unlike the basic parsers included with most torrent clients, and has a lovely web based interface.
 
 While you can run Lazy Legume on any Linux or MacOS computer, it's designed for seedboxes and dedicated servers.
